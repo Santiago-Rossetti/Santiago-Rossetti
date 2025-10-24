@@ -10,7 +10,6 @@
 
 ## 🛠 Tech Stack & Herramientas  
 Aquí algunas de las tecnologías con las que trabajo o estoy profundizando:  
-```yaml
 Lenguajes:
   - Java
   - C
