@@ -1,10 +1,9 @@
 # ¡Hola! 👋 soy **Santiago Rossetti**
 
 ## 🧑‍💻 Sobre mí  
-- 🎓 Desarrollador / Ingeniero de software apasionado por aprender y crear  
-- 🌱 Actualmente aprendiendo y mejorando en: *[agrega tus tecnologías en curso]*  
-- 📫 ¿Quieres contactarme? Puedes enviarme un email a: `tu.email@ejemplo.com` (o ajusta el medio que prefieras)  
-- 🌍 Ubicación: Buenos Aires, Argentina  
+- 📫 ¿Quieres contactarme? Puedes enviarme un email a: `santiagorossetti2182@gmail.com` 
+- 🌍 Ubicación: La Plata, Buenos Aires, Argentina
+- 🧑‍💻 Actualmente estudiando la carrera Ingeniera En Computacion
 
 ---
 
